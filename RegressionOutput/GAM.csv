@@ -1,0 +1,7 @@
+"name","features","rmse","r2"
+"normalClass","fixed.acidity_residual.sugar_chlorides_total.sulfur.dioxide_sulphates_alcohol",0.618434517797514,0.335816735510537
+"normalClass_normalized","fixed.acidity_residual.sugar_chlorides_total.sulfur.dioxide_sulphates_alcohol",0.625470990067796,0.332784968671898
+"oversampled","fixed.acidity_residual.sugar_chlorides_total.sulfur.dioxide_density_sulphates_alcohol",0.990122481939308,0.661015751810818
+"oversampled_normalized","fixed.acidity_residual.sugar_chlorides_total.sulfur.dioxide_density_sulphates_alcohol",0.997569598849649,0.657638663975993
+"undersampled","chlorides_sulphates_alcohol",0.941590136102693,0.523318622857634
+"undersampled_normalized","fixed.acidity_residual.sugar_sulphates_alcohol",1.28923884575196,0.702679045857939

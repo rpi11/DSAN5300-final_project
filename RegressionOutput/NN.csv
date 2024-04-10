@@ -1,0 +1,7 @@
+"name","hiddenLayerSize","rmse"
+"normalClass",22,0.757717796414087
+"normalClass_normalized",3,0.809538910725487
+"oversampled",2,1.69617460672189
+"oversampled_normalized",1,0.96156849890915
+"undersampled",17,1.92052610359141
+"undersampled_normalized",3,5.22377106426625
